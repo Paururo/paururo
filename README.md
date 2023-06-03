@@ -3,7 +3,7 @@
 - 🔭 Decoding #TB mysteries 
 - 💻 Bioinformagician harnessing the power of data 
 - 🧬 Biologist fascinated by the secrets within genes
-- 🌍 3d printing ot https://www.printables.com/es/@paururo
+- 🌍 3d printing ot https://www.printables.com/en/@paururo
 <!--
 **Paururo/paururo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
