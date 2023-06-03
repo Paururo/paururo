@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 Decoding #TB mysteries 
-- 💻 Bioinformagician harnessing the power of data 
-- 🧬 Biologist fascinated by the secrets within genes
-- 🌍 3d printing ot https://www.printables.com/en/@paururo
+- 🔭 I’m decoding #TB mysteries 
+- 💻 I’m Bioinformagician harnessing the power of data 
+- 🧬 I’m Biologist fascinated by the secrets within genes
+- 🌍 I’m 3d printing at https://www.printables.com/en/@paururo
 <!--
 **Paururo/paururo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
