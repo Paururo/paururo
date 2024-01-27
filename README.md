@@ -17,15 +17,10 @@ Hello world!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paururo" alt="Ivan's GitHub Streak stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paururo" alt="Paula's GitHub Streak stats"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=paururo&column=4&margin-w=15&margin-h=15" alt="Ivan's GitHub Trophies"/>
-  </a>
-</p>
 
 <!--
 **Paururo/paururo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
