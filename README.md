@@ -2,10 +2,10 @@
 Hi there 👋 I'm Paula
 </h1>
 
-- 🔭 I’m decoding #TB mysteries 
-- 💻 I’m Bioinformagician harnessing the power of data 
-- 🧬 I’m Biologist fascinated by the secrets within genes
-- 🌍 I’m 3d printing at https://www.printables.com/en/@paururo
+- 🔭 I’m decoding #TB mysteries. 
+- 💻 I’m Bioinformagician harnessing the power of data. 
+- 🧬 I’m Biologist fascinated by the secrets within genes.
+- 🌍 I’m 3d printing at https://www.printables.com/en/@paururo .
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer">
